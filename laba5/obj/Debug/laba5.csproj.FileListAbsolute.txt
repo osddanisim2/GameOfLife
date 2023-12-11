@@ -1,0 +1,10 @@
+C:\Users\Дмитро\source\repos\laba5\laba5\bin\Debug\laba5.exe.config
+C:\Users\Дмитро\source\repos\laba5\laba5\bin\Debug\laba5.exe
+C:\Users\Дмитро\source\repos\laba5\laba5\bin\Debug\laba5.pdb
+C:\Users\Дмитро\source\repos\laba5\laba5\obj\Debug\laba5.csproj.AssemblyReference.cache
+C:\Users\Дмитро\source\repos\laba5\laba5\obj\Debug\laba5.Form1.resources
+C:\Users\Дмитро\source\repos\laba5\laba5\obj\Debug\laba5.Properties.Resources.resources
+C:\Users\Дмитро\source\repos\laba5\laba5\obj\Debug\laba5.csproj.GenerateResource.cache
+C:\Users\Дмитро\source\repos\laba5\laba5\obj\Debug\laba5.csproj.CoreCompileInputs.cache
+C:\Users\Дмитро\source\repos\laba5\laba5\obj\Debug\laba5.exe
+C:\Users\Дмитро\source\repos\laba5\laba5\obj\Debug\laba5.pdb
